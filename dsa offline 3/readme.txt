@@ -1,0 +1,2 @@
+there are 8 files total .1 means problem number.a means array,ll means linked list.
+stack means stack implementation.here .h files contains all the function and class initialization and other files are the implementation except two main function.the are the main function of the two task given to us.
