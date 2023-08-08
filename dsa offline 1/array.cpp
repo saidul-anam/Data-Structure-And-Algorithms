@@ -42,7 +42,7 @@ length++;
 }
 int Remove(){
     int a=arr[cur-1];
-for(int i=cur-1;i<length;i++){
+for(int i=cur-1;i<length-1;i++){
     arr[i]=arr[i+1];
 }
     length--;
